@@ -26,6 +26,7 @@ const Bai6Component = () => {
 export default Bai6Component
 var bai6Style = StyleSheet.create({
     container:{
+        flex:1,
         backgroundColor:"#fff"
     },
     box:{
